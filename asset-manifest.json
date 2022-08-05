@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/magic-the-gathering/static/css/main.c71262d7.css",
+    "main.js": "/magic-the-gathering/static/js/main.c2f7b3ca.js",
+    "static/js/787.12549381.chunk.js": "/magic-the-gathering/static/js/787.12549381.chunk.js",
+    "static/media/primeicons.svg": "/magic-the-gathering/static/media/primeicons.c6e2053303524e39530c.svg",
+    "static/media/primeicons.eot": "/magic-the-gathering/static/media/primeicons.7fc4d8e224d1ff1b9c62.eot",
+    "static/media/primeicons.woff": "/magic-the-gathering/static/media/primeicons.449aa8c65cdc5c2a8686.woff",
+    "static/media/primeicons.ttf": "/magic-the-gathering/static/media/primeicons.91bacab1f083f2795272.ttf",
+    "static/media/logo.svg": "/magic-the-gathering/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/magic-the-gathering/index.html",
+    "main.c71262d7.css.map": "/magic-the-gathering/static/css/main.c71262d7.css.map",
+    "main.c2f7b3ca.js.map": "/magic-the-gathering/static/js/main.c2f7b3ca.js.map",
+    "787.12549381.chunk.js.map": "/magic-the-gathering/static/js/787.12549381.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c71262d7.css",
+    "static/js/main.c2f7b3ca.js"
+  ]
+}
